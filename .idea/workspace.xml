@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc21d380-0254-4251-8e56-6761f65eda08" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/kodak/kodim24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/.clang-format" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/.clangd_template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/CITATION.cff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/MANIFEST.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/READMEold.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/DEV.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/_templates/sidebar/brand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/apis/proj.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/apis/rast.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/apis/utils.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/conventions/cuda_conventions.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/conventions/data_conventions.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/examples/simple_trainer.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/imgs/square.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/imgs/training.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/references.bib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/docs/source/tests/tests.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/_torch_impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/_backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/CMakeFiles/3.16.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/CMakeFiles/3.16.3/CompilerIdCUDA/CMakeCUDACompilerId.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/CMakeFiles/3.16.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/backward.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/backward.cuh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/backward2d.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/backward2d.cuh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/bindings.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/bindings.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/ext.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/forward.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/forward.cuh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/forward2d.cuh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/foward2d.cu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/helpers.cuh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/sh.cuh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/project_gaussians.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/project_gaussians_2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/project_gaussians_2d_covariance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/project_gaussians_2d_scale_rot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/rasterize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/rasterize_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/rasterize_sum_plus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/sh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/gsplat/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/tests/test_cov2d_bounds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/tests/test_get_tile_bin_edges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/tests/test_map_gaussians.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/tests/test_project_gaussians.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gsplat/tests/test_sh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/gaussianimage_cholesky.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/gaussianimage_covariance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/gaussianimage_rs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/gaussiansplatting_3d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quantize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_quantize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="37EHW1uERI2S2pqC1GWwTcxPJMB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/3dv/GaussianImage_plus",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc21d380-0254-4251-8e56-6761f65eda08" name="Changes" comment="" />
+      <created>1766461337951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766461337951</updated>
+      <workItem from="1766461339905" duration="129000" />
+    </task>
+    <servers />
+  </component>
+</project>

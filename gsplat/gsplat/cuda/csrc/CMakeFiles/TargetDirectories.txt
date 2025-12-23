@@ -1,0 +1,2 @@
+/NEW_EDS/JJ_Group/litt/GaussianImage/gsplat/gsplat/cuda/csrc/CMakeFiles/rebuild_cache.dir
+/NEW_EDS/JJ_Group/litt/GaussianImage/gsplat/gsplat/cuda/csrc/CMakeFiles/edit_cache.dir
