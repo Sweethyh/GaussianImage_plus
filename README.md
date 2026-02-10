@@ -34,7 +34,7 @@ or
 # HTTPS
 git clone https://github.com/Sweethyh/GaussianImage_plus.git 
 ```
-After cloning the repository, you can follow these steps to train GaussianImage models under different tasks. 
+After cloning the repository, you can follow these steps to train GaussianImage++ models under different tasks. 
 
 ### Requirements
 

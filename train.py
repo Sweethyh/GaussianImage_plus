@@ -274,7 +274,7 @@ class SimpleTrainer2d:
 def parse_args(argv):
     parser = argparse.ArgumentParser(description="Example training script.")
     parser.add_argument(
-        "-d", "--dataset", type=str, default='./datasets/kodak/', help="Training dataset"
+        "-d", "--dataset", type=str, default='./datasets/kodak/', help="Training dataset path"
     )
     parser.add_argument(
         "--data_name", type=str, default='kodak', help="Training dataset"
@@ -306,7 +306,6 @@ def parse_args(argv):
         "--lr",
         type=float,
         default=0.018,
-        # default=0.0001, #better
         help="Learning rate (default: %(default)s)",
     )
     parser.add_argument("--warmup_iter", type=float, default=6000, help="tanh")
@@ -316,7 +315,7 @@ def parse_args(argv):
     parser.add_argument("--wandb-project", type=str, default=None, help='Weights & Biases Project')
     parser.add_argument("--loss_type", type=str, default="L2", help="Set random seed for reproducibility")
     parser.add_argument("--SLV_init", type=bool, default=True, help="if the background is learned or not")
-    parser.add_argument("--color_norm", type=bool, default=True)
+    parser.add_argument("--color_norm",  action='store_true', help="if normalize the color")
     parser.add_argument("--coords_norm", action='store_true', help="if normalize the coordinates")
     parser.add_argument("--coords_act", type=str, default="tanh", help="activate function of coordinates normalization")
     parser.add_argument("--save_interval", type=int, default=5, help="tanh")
