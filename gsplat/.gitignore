@@ -11,7 +11,10 @@ __pycache__/
 
 # C extensions
 *.so
-gsplat/cuda/csrc/third_party/
+
+gsplat/cuda/csrc/CMakeFiles/
+
+# gsplat/cuda/csrc/third_party/
 workflows/
 # Distribution / packaging
 .Python
