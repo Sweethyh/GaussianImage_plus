@@ -6,3 +6,4 @@ pytorch-msssim
 PyYAML
 tqdm
 vector-quantize-pytorch
+wandb
